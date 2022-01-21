@@ -12,9 +12,9 @@ public class Studentlist {
     
      public static void main(String[] args) {
          
-         Student[] Studentlist= new Student[3];
+         Student[] Studentlist= new Student[4];
          
-         Studentlist[0] = new Student ("hello","Kid","Kid2");
+         Studentlist[0] = new Student ("s1","Kid","Kid2");
          
          
      }
